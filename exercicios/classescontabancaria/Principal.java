@@ -1,4 +1,4 @@
-package exercicios.classes.classesContaBancaria;
+package exercicios.classescontabancaria;
 
 public class Principal {
 
